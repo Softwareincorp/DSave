@@ -2,4 +2,4 @@
 
 # DSave
 DSave - it is an easy-to-use program to save and restore your desktop configuration.
-Buy me a coffee: [Buy me a coffee:](buymecoffee.com/softwarecoreink)
+Buy me a coffee: [Buy me a coffee](buymecoffee.com/softwarecoreink/)
